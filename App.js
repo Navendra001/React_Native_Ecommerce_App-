@@ -4,7 +4,7 @@ import {Text, View} from 'react-native';
 const App = () => {
   return (
     <View>
-      <Text> Hello  Kajal </Text>
+      <Text> Hello kajal bansal </Text>
     </View>
   );
 };
