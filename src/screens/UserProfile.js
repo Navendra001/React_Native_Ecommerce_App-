@@ -1,17 +1,17 @@
-import React from 'react';
 import {Text, View} from 'react-native';
+import React from 'react';
 import {SafeAreaView} from 'react-native-safe-area-context';
 
-const Home = () => {
+const UserProfile = () => {
   return (
     <SafeAreaView>
       <View>
-        <Text>Home</Text>
+        <Text>UserProfile</Text>
       </View>
     </SafeAreaView>
   );
 };
 
-export default Home;
+export default UserProfile;
 
 // const styles = StyleSheet.create({});

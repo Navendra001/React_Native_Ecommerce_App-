@@ -1,12 +1,9 @@
 import React from 'react';
-import {Text, View} from 'react-native';
+// import {Text, View, SafeAreaView} from 'react-native';
+import Tabs from './src/screens/Tabs';
 
 const App = () => {
-  return (
-    <View>
-      <Text> Hello kajal bansal </Text>
-    </View>
-  );
+  return <Tabs />;
 };
 
 export default App;

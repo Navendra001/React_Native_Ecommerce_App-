@@ -1,17 +1,17 @@
-import React from 'react';
 import {Text, View} from 'react-native';
+import React from 'react';
 import {SafeAreaView} from 'react-native-safe-area-context';
 
-const Home = () => {
+const AddToCart = () => {
   return (
     <SafeAreaView>
       <View>
-        <Text>Home</Text>
+        <Text>AddToCart</Text>
       </View>
     </SafeAreaView>
   );
 };
 
-export default Home;
+export default AddToCart;
 
 // const styles = StyleSheet.create({});
